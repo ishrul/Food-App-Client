@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Cabage Salad",
+    "price1": 4.99,
+    "price2": 9.98,
+    "price3": 19.96,
+    "review": 4.2,
+    "img": "https://i.ibb.co/4fJD49k/Untitled-design-8.png"
+  },
+  {
+    "id": 2,
+    "name": "Noddle Salad",
+    "price1": 6.39,
+    "price2": 12.78,
+    "price3": 25.56,
+    "review": 4.5,
+    "img": "https://i.ibb.co/SdfwVjJ/Untitled-design-9.png"
+  },
+  {
+    "id": 3,
+    "name": "Vegetable mix",
+    "price1": 16.15,
+    "price2": 32.29,
+    "price3": 64.58,
+    "review": 5,
+    "img": "https://i.ibb.co/K6L2MQm/Untitled-design-1.png"
+  },
+  {
+    "id": 4,
+    "name": "Seafood soup",
+    "price1": 21.16,
+    "price2": 42.33,
+    "price3": 84.65,
+    "review": 4.4,
+    "img": "https://i.ibb.co/JHy1HCj/Untitled-design-10.png"
+  },
+  {
+    "id": 5,
+    "name": "Bean soup",
+    "price1": 4.12,
+    "price2": 8.24,
+    "price3": 16.48,
+    "review": 4.9,
+    "img": "https://i.ibb.co/JyPChPp/Untitled-design-11.png"
+  },
+  {
+    "id": 6,
+    "name": "Stewed vegetables",
+    "price1": 8.87,
+    "price2": 17.75,
+    "price3": 35.49,
+    "review": 3.9,
+    "img": "https://i.ibb.co/xzSfwQ0/Untitled-design-12.png"
+  },
+  {
+    "id": 7,
+    "name": "Chicken soup",
+    "price1": 2.67,
+    "price2": 5.34,
+    "price3": 10.67,
+    "review": 4.2,
+    "img": "https://i.ibb.co/k6d3P16/Untitled-design-13.png"
+  },
+  {
+    "id": 8,
+    "name": "Roast potatoes",
+    "price1": 4.22,
+    "price2": 8.44,
+    "price3": 16.87,
+    "review": 4.4,
+    "img": "https://i.ibb.co/1J3K17F/Untitled-design-14.png"
+  }
+]
